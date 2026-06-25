@@ -23,7 +23,7 @@ repository               : "vyluong/vyl236.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/vy-luong.jpg"
+  avatar           : "Vy.jpg"
   name             : "Vy Luong, Ph.D."
   bio              : "Postdoctoral Fellow"
   location         : "Columbia, MO"
