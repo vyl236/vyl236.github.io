@@ -8,6 +8,7 @@ redirect_from:
 ---
 I am a Postdoctoral Fellow in the Strategic Communication department at the Missouri School of Journalism. I serve as the Lab Manager of the Science Communication Identity & Impact (SCII) Research Lab. 
 
-My award-winning research, teaching, and professional experience sit at the intersection of journalism and strategic communication, with expertise in leadership, identity, and organizational change. I am well-versed in qualitative, quantitative, and computational methods to address a wide range of research and teaching demands.
+My award-winning [research](/research), [teaching](/teaching), and [professional experience](/portfolio) sit at the intersection of journalism and strategic communication, with expertise in leadership, identity, and organizational change. I am well-versed in qualitative, quantitative, and computational methods to address a wide range of research and teaching demands.
 
 I earned my Ph.D. from the Missouri School of Journalism with a mixed-method dissertation that represents the largest study to date of leadership in news organizations. Prior to entering academia, I worked as a multimedia journalist, online editor, and media director in Oklahoma and Washington, D.C.
+
