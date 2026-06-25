@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Vy Luong, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
