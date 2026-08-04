@@ -2,7 +2,7 @@
 title: "CV"
 permalink: /cv/
 redirect_from:
-  - /cv/
+  - /resume/
 
 ---
 
