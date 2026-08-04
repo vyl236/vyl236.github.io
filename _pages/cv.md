@@ -5,12 +5,11 @@ redirect_from:
   - /resume/
 
 ---
+[⬇ Download PDF](/files/CV%20Vy%20August%202026.pdf){: .btn .btn--primary}
 
-<object
-  data="/files/Vy_Luong_CV_Aug_2026.pdf"
-  type="application/pdf"
+<iframe
+  src="/files/CV%20Vy%20August%202026.pdf"
   width="100%"
-  height="900px">
-</object>
-
-[Download CV (PDF)](/files/Vy_Luong_CV_Aug_2026.pdf)
+  height="1000px"
+  style="border:none;">
+</iframe>
