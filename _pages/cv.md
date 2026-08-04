@@ -10,3 +10,5 @@ permalink: /cv/
   width="100%"
   height="900px">
 </object>
+
+[Download CV (PDF)](/files/Vy_Luong_CV_Aug_2026.pdf)
