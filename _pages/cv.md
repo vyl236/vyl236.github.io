@@ -1,5 +1,12 @@
 ---
 title: "CV"
 permalink: /cv/
-redirect_to: /files/Vy_Luong_CV.pdf
+
 ---
+
+<object
+  data="/files/Vy_Luong_CV.pdf"
+  type="application/pdf"
+  width="100%"
+  height="900px">
+</object>
